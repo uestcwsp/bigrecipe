@@ -4,54 +4,55 @@
     "i18n.papers": "论文",
     "i18n.teamMember": "团队成员",
     "i18n.contact": "联系方式",
-    "i18n.languages": "切换语言"
-    "i18n.The recommendations": "食谱推荐"
-    "i18n.Stop worrying about what you're going to eat today!": "别再为今天吃什么而烦恼！"
-	"i18n.Now explore!": "现在开始探索！"
-	"i18n.Fine-grained classification of dietary elements": "细粒度饮食元素分类"
-	"i18n.Let you know every dish on the table!":"慧"眼"识菜，让你对餐桌上的每一道菜都心知肚明！"
-	"i18n.Cancer diet":"癌症食疗"
-	"i18n.You are what you eat. You can prevent cancer by eating!":"你吃什么，就有怎样的身体，预防癌症从吃开始！"
-	"i18n.Large scale diet recipe data set":"大规模饮食食谱数据集"
-	"i18n.1.8 million recipes":"180万食谱"
-	"i18n.720,000 dietary elements":"72万饮食元素"
-	"i18n.500,000 relationship":"50万关系"
-	"i18n.150,000 visits":"15万人访问"
-	"i18n.The application case":"应用案例"
-	"i18n.Daily life is inseparable from diet, diet map for life provides great convenience":"日常生活离不开饮食，饮食图谱为生活提供了极大的便利"
-	"i18n.Fine-grained classification of dietary elements":"细粒度饮食元素分类"
-	"i18n.Diet culture":"饮食文化"
-	"i18n.Related systems":"相关系统"
-	"i18n.In addition to the diet recipe data and diet map, we also built the following system":"除了饮食食谱数据和饮食图谱，我们还构建了以下系统"
-	"i18n.Contact us at 028-61830885":"联系我们:028-61830885"
-	"i18n.List":"列表"
-	"i18n.We sifted through the XLORE data to narrow down some representative examples, concepts, triples and other data for your research.The statistical information of the data is as follows:":"我们将XLORE的数据进行了筛选，精简出一些具有代表性的实例、概念、三元组等数据，以供大家研究使用。数据的统计信息如下:"
-	"i18n.Number of concepts, instances, properties, and up-down relationships":"概念，实例，属性和上下位关系数目"
-	"i18n.Cross-language connections (concepts/instances)":"跨语言连接（概念/实例）"
-	"i18n.More data will be released in the near future.":"更多数据将在近期发布，敬请期待。"
-	"i18n.Contact us":"联系我们"
-	"i18n.Seek truth and truth":"求真求实 大气大为"
-	"i18n.UESTC Qingshui river campus":"电子科技大学清水河校区"
-	"i18n.Room 201, main building B1":"主楼B1 201室"
-	"i18n.Paper title":"论文名称"
-	"i18n.The author":"作者"
-	"i18n.Conference/journal":"会议/期刊"
-	"i18n.Year":"年份"
-	"i18n.Note":"备注"
-	"i18n.Research on multi-document concept map construction based on open domain extraction":"基于开放域抽取的多文档概念图构建研究"
-	"i18n.Sheng,Fu,Wu":"盛泳潘, 付雪峰, 吴天星"
-	"i18n.Computer application research":"计算机应用研究"
-	"i18n.Overview of knowledge mapping technologies":"知识图谱技术综述"
-	"i18n.Xu,Sheng,He,Wang":"徐增林, 盛泳潘, 贺丽荣, 王雅芳"
-	"i18n.Journal of university of electronic science and technology":"电子科技大学学报"
-	"i18n.Teacher":"教师"
-	"i18n.Xu Zenglin":"徐增林"
-	"i18n.Professor, doctoral supervisor, has published more than 80 papers, Google cited more than 1500 times, published a monograph.":"教授、博士生导师，已发表论文80多篇，Google引用1500多次，发表专著1部。"
-	"i18n.Phd":"博士研究生"
-	"i18n.Knowledge graph, business graph, distributed system":"知识图谱，事理图谱，分布式系统"
-	"i18n.Master":"硕士研究生"
-	"i18n.Knowledge mapping, deep learning":"知识图谱，深度学习"
-	"i18n.Wang Shongchao":"王松超"
-	"i18n.Wang Shengpei":"王胜培"
-	"i18n.Lei Yuecheng":"雷越城"
+    "i18n.languages": "切换语言",
+    "i18n.text1":"食谱推荐",
+    "i18n.text2": "别再为今天吃什么而烦恼！",
+    "i18n.text3": "现在开始探索！",
+    "i18n.text4": "细粒度饮食元素分类",
+    "i18n.text5":"慧“眼”识菜，让你对餐桌上的每一道菜都心知肚明！",
+    "i18n.text6":"癌症食疗",
+    "i18n.text7":"你吃什么，就有怎样的身体，预防癌症从吃开始！",
+    "i18n.tetx8":"大规模饮食食谱数据集",
+    "i18n.text9":"180万食谱",
+    "i18n.text10":"72万饮食元素",
+    "i18n.text11":"50万关系",
+    "i18n.text12":"15万人访问",
+    "i18n.text13":"应用案例",
+    "i18n.text14":"日常生活离不开饮食，饮食图谱为生活提供了极大的便利",
+    "i18n.text15":"细粒度饮食元素分类",
+    "i18n.text16":"饮食文化",
+    "i18n.text17":"相关系统",
+    "i18n.text18":"除了饮食食谱数据和饮食图谱，我们还构建了以下系统",
+    "i18n.text19":"联系我们:028-61830885",
+    "i18n.text20":"列表",
+    "i18n.text21:":"我们将XLORE的数据进行了筛选，精简出一些具有代表性的实例、概念、三元组等数据，以供大家研究使用。数据的统计信息如下:",
+    "i18n.text22":"概念，实例，属性和上下位关系数目",
+    "i18n.text23":"跨语言连接（概念/实例）",
+    "i18n.text24":"更多数据将在近期发布，敬请期待。",
+    "i18n.text25":"联系我们",
+    "i18n.text26":"求真求实 大气大为",
+    "i18n.text27":"电子科技大学清水河校区",
+    "i18n.text28":"主楼B1 201室",
+    "i18n.text29":"论文名称",
+    "i18n.text30":"作者",
+    "i18n.text31":"会议/期刊",
+    "i18n.text32":"年份",
+    "i18n.text33":"备注",
+    "i18n.text34":"基于开放域抽取的多文档概念图构建研究",
+    "i18n.text35":"盛泳潘, 付雪峰, 吴天星",
+    "i18n.text36":"计算机应用研究",
+    "i18n.text37":"知识图谱技术综述",
+    "i18n.text38":"徐增林, 盛泳潘, 贺丽荣, 王雅芳",
+    "i18n.text39":"电子科技大学学报",
+    "i18n.text40":"教师",
+    "i18n.text41":"徐增林",
+    "i18n.text42":"教授、博士生导师，已发表论文80多篇，Google引用1500多次，发表专著1部。",
+    "i18n.text43":"博士研究生",
+    "i18n.text44":"知识图谱，事理图谱，分布式系统",
+    "i18n.text45":"硕士研究生",
+    "i18n.text46":"知识图谱，深度学习",
+    "i18n.text47":"王松超",
+    "i18n.text48":"王胜培",
+    "i18n.text49":"雷越城",
+    "i18n.text50":"盛泳潘"
  }
